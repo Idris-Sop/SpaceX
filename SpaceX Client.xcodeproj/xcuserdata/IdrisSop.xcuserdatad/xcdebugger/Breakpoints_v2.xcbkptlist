@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "287F5F88-7CB6-44E9-B29C-A831E50C2FE4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E759205A-389D-4981-BA8C-43F427C9467C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceX Client/Launches List Screen/View Model/LaunchesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "didSelectedLaunchAtIndex(index:selectedOpenOption:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D7228EE-4305-453C-9DFD-A5302206EB7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceX ClientTests/Mock/TestExpectable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "verifyExpectation(for:count:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D7228EE-4305-453C-9DFD-A5302206EB7C - 13fd5646250a1642"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == SpaceX_ClientTests.TestExpectable&gt;.verifyExpectation(for: Swift.String, count: Swift.Int) -&gt; ()"
+                  moduleName = "SpaceX ClientTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IdrisSop/Documents/MyProjects/SpaceX%20Client/SpaceX%20ClientTests/Mock/TestExpectable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "8D7228EE-4305-453C-9DFD-A5302206EB7C - 931adb74a9b3f94f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, SpaceX_ClientTests.TestExpectable) -&gt; Swift.Int in Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == SpaceX_ClientTests.TestExpectable&gt;.verifyExpectation(for: Swift.String, count: Swift.Int) -&gt; ()"
+                  moduleName = "SpaceX ClientTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IdrisSop/Documents/MyProjects/SpaceX%20Client/SpaceX%20ClientTests/Mock/TestExpectable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F71CA10-DEA6-4F17-B44C-16C468C89996"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceX ClientTests/Mock/TestExpectable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "verify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F71CA10-DEA6-4F17-B44C-16C468C89996 - 4d6639ffc6ca251c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == SpaceX_ClientTests.TestExpectable&gt;.verify() -&gt; ()"
+                  moduleName = "SpaceX ClientTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IdrisSop/Documents/MyProjects/SpaceX%20Client/SpaceX%20ClientTests/Mock/TestExpectable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "9F71CA10-DEA6-4F17-B44C-16C468C89996 - ecaa4fa09b7cec95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SpaceX_ClientTests.TestExpectable) -&gt; Swift.Bool in Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == SpaceX_ClientTests.TestExpectable&gt;.verify() -&gt; ()"
+                  moduleName = "SpaceX ClientTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IdrisSop/Documents/MyProjects/SpaceX%20Client/SpaceX%20ClientTests/Mock/TestExpectable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3835CC16-9B29-4BFF-8091-9E8A8B4909DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceX ClientTests/Mock/TestExpectable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "verifyExpectation(for:count:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C6E83BC-B817-4FAB-9563-3A854BD08AC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceX ClientTests/Mock/TestExpectable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "validate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
